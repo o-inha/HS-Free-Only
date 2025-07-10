@@ -9,7 +9,7 @@ Should work in all modern browsers.
 If you're not using Chrome, follow steps 1-2 and then google "_your browser_ load unpacked extension" for further instructions.
 
 1. Download this repository as ZIP (Upper right `Code` button -> Download ZIP)
-2. Extract ZIP
+2. Extract ZIP to some good, static location.
 3. In Chrome, go to address `chrome://extensions`
 4. Enable _Developer mode_ from upper right corner.
 5. Click the _Load Unpacked_ button and select the directory `HS-Free-Only` (from the extracted ZIP).
